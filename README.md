@@ -60,7 +60,7 @@ L’évaluation sera réalisée avec :
 
 #### Articles à lire :
 
-- Gaudillière J.-P., 2019, « “Mediator n’est pas une exception, mais le révélateur de problèmes structurels dans le monde du médicament” », Mouvements, n°98, 2, p. 67.
+- [Pedrot F., 2021, « Gouverner une crise sanitaire par le savoir et l’incertitude : le cas des agrégats de « bébés nés sans bras » en France », Anthropologie et Santé, 22.](https://journals.openedition.org/anthropologiesante/9194)
 - Fassin D., 2007, « Entre désir de nation et théorie du complot. Les idéologies du médicament en Afrique du Sud », Sciences sociales et santé, 25, 4, p. 93.
 
 ### Séance du 18/03 – Expertise et argumentation
