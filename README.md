@@ -46,7 +46,7 @@ L’évaluation sera réalisée avec :
 - Présentation du cours et du domaine des études de controverses
 - Balistique d’une controverse : le cas de l’hydroxychloroquine en France en 2020
 - Comment étudier une controverse ? Acteurs, arguments et arènes, plus quelques règles de base.
-- 
+
 #### Articles à lire :
 
 - Dossier documentaire qui accompagnera les séances
@@ -57,7 +57,7 @@ L’évaluation sera réalisée avec :
 - Diversité des acteurs qui interviennent sur la santé
 - Repérer et décrire les acteurs qui se sont exprimés sur l’hydroxychloroquine
 - Utiliser la couverture médiatique pour documenter une controverse
-- 
+
 #### Articles à lire :
 
 - Gaudillière J.-P., 2019, « “Mediator n’est pas une exception, mais le révélateur de problèmes structurels dans le monde du médicament” », Mouvements, n°98, 2, p. 67.
