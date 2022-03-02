@@ -49,7 +49,7 @@ L’évaluation sera réalisée avec :
 
 #### Articles à lire :
 
-- [Dossier documentaire qui accompagnera les séances](https://github.com/emilienschultz/cours-controverses-sante-2022/blob/main/Documents/Dossier%20HC%20-%20v02032022.docx)
+- [Dossier hydroxychloroquine qui accompagnera les séances](https://github.com/emilienschultz/cours-controverses-sante-2022/blob/main/Documents/Dossier%20HC%20-%20v02032022.pdf)
 - [Seurat C., Tari T., 2021, Controverses mode d’emploi. Introduction](https://controverses.org/mode-demploi/intro.html)
 
 ### Séance du 11/03 – Les acteurs intervenant sur la santé
