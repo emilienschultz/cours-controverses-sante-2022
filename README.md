@@ -44,8 +44,8 @@ L’évaluation sera réalisée avec :
 ### Séance du 4/03 – La particularité des controverses en santé
 
 - Présentation du cours et du domaine des études de controverses
-- Balistique d’une controverse : le cas de l’hydroxychloroquine en France en 2020
 - Comment étudier une controverse ? Acteurs, arguments et arènes, plus quelques règles de base.
+- Balistique d’une controverse : le cas de l’hydroxychloroquine en France en 2020
 
 #### Articles à lire :
 
