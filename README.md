@@ -71,8 +71,8 @@ L’évaluation sera réalisée avec :
 
 #### Articles à lire :
 
-- Dodier N., 1993, L’expertise médicale. Introduction
 - Akrich M., Barthe Y., Rémy C., 2010, « Les enquêtes « profanes » et la dynamique des controverses en santé environnementale », dans p. 7‑52.
+- Molinatti G., Hert P., 2021, « Tentatives de clôture d’une controverse scientifique au sein d’un laboratoire », Revue d’anthropologie des connaissances, 15, 2, p. 1‑21.
 
 ### Séance du 25/03 – Arènes et régulations des controverses
 
