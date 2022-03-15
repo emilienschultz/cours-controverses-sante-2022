@@ -82,7 +82,7 @@ L’évaluation sera réalisée avec :
 
 #### Articles à lire :
 
-- Quemener N., 2018, « “Vous voulez réagir ?”. L’étude des controverses médiatiques au prisme des intensités affectives », Questions de communication, 33, p. 23‑41.(https://journals.openedition.org/questionsdecommunication/12088)
+- [Quemener N., 2018, « “Vous voulez réagir ?”. L’étude des controverses médiatiques au prisme des intensités affectives », Questions de communication, 33, p. 23‑41.](https://journals.openedition.org/questionsdecommunication/12088)
 - Hallin D.C., Brandt M., Briggs C.L., 2013, « Biomedicalization and the public sphere: Newspaper coverage of health and medicine, 1960s-2000s », Social Science and Medicine, 96, p. 121‑128.
 
 ### Séance du 01/03 -  Présentations de vos analyses
