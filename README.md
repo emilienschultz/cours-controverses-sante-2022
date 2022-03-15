@@ -76,14 +76,14 @@ L’évaluation sera réalisée avec :
 
 ### Séance du 25/03 – Arènes et régulations des controverses
 
-- La circulation des arguments dans les publics
+- Resituer les argumentations dans les mondes sociaux, focus sur la médiatisation des questions de santé
 - Le rôle des réseaux sociaux dans les débats sur l’hydroxychloroquine
 - Les données disponibles pour suivre les dynamiques collectives dans les controverses
 
 #### Articles à lire :
 
-- Brives C., 2015, « Pour eux c’est seulement à propos de la mortalité ». La production des données et ses conséquences dans le déroulement d’un essai clinique », Sciences Sociales Et Sante, 33, 2, p. 41‑64.
-- Hallin D.C., Brandt M., Briggs C.L., 2013, « Biomedicalization and the public sphere: Newspaper coverage ofhealth and medicine, 1960s-2000s », Social Science and Medicine, 96, p. 121‑128.
+- Quemener N., 2018, « “Vous voulez réagir ?”. L’étude des controverses médiatiques au prisme des intensités affectives », Questions de communication, 33, p. 23‑41.(https://journals.openedition.org/questionsdecommunication/12088)
+- Hallin D.C., Brandt M., Briggs C.L., 2013, « Biomedicalization and the public sphere: Newspaper coverage of health and medicine, 1960s-2000s », Social Science and Medicine, 96, p. 121‑128.
 
 ### Séance du 01/03 -  Présentations de vos analyses
 
