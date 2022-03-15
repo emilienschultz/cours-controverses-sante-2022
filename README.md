@@ -63,9 +63,9 @@ L’évaluation sera réalisée avec :
 - [Pedrot F., 2021, « Gouverner une crise sanitaire par le savoir et l’incertitude : le cas des agrégats de « bébés nés sans bras » en France », Anthropologie et Santé, 22.](https://journals.openedition.org/anthropologiesante/9194)
 - [Fassin D., 2007, « Entre désir de nation et théorie du complot. Les idéologies du médicament en Afrique du Sud », Sciences sociales et santé, 25, 4, p. 93.](https://www.cairn.info/revue-sciences-sociales-et-sante-2007-4-page-93.htm)
 
-### Séance du 18/03 – Expertise et argumentation
+### Séance du 18/03 – Les connaissances en santé
 
-- Preuve et légitimité des expertises dans le domaine de la santé
+- Production, circulation et réception des savoirs en santé
 - Comment se sont stabilisées les connaissances sur l’hydroxychloroquine.
 - Etudier la littérature scientifique en santé
 
