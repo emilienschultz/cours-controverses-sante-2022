@@ -83,6 +83,7 @@ L’évaluation sera réalisée avec :
 #### Articles à lire :
 
 - [Quemener N., 2018, « “Vous voulez réagir ?”. L’étude des controverses médiatiques au prisme des intensités affectives », Questions de communication, 33, p. 23‑41.](https://journals.openedition.org/questionsdecommunication/12088)
+- [Mercan A., 2013, « La route du cordyceps », Autrepart, N° 63, 4, p. 89‑105.](https://www.cairn.info/revue-autrepart-2012-4-page-89.htm)
 - Hallin D.C., Brandt M., Briggs C.L., 2013, « Biomedicalization and the public sphere: Newspaper coverage of health and medicine, 1960s-2000s », Social Science and Medicine, 96, p. 121‑128.
 
 ### Séance du 01/03 -  Présentations de vos analyses
