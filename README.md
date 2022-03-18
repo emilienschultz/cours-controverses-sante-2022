@@ -74,9 +74,9 @@ L’évaluation sera réalisée avec :
 - [Akrich M., Barthe Y., Rémy C., 2010, « Les enquêtes « profanes » et la dynamique des controverses en santé environnementale », dans p. 7‑52.](https://books.openedition.org/pressesmines/315?lang=en)
 - [Molinatti G., Hert P., 2021, « Tentatives de clôture d’une controverse scientifique au sein d’un laboratoire », Revue d’anthropologie des connaissances, 15, 2, p. 1‑21.](https://journals.openedition.org/rac/22194)
 
-### Séance du 25/03 – Arènes et régulations des controverses
+### Séance du 25/03 – Arènes dans le cas pratique de la controverse sur la chloroquine
 
-- Resituer les argumentations dans les mondes sociaux, focus sur la médiatisation des questions de santé
+- Analyser la controverse autour de l'hydroxychloroquine pendant l'épidémie de COVID-19
 - Le rôle des réseaux sociaux dans les débats sur l’hydroxychloroquine
 - Les données disponibles pour suivre les dynamiques collectives dans les controverses
 
