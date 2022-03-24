@@ -36,7 +36,7 @@ Chaque séance est associée à deux textes qu’il est important de lire en amo
 L’évaluation sera réalisée avec :
 
 1. Une restitution de 10 minutes de votre étude de controverse
-2. Un document de 2 pages (max) qui fera le lien entre votre analyse de controverse et soit une des notions vues dans la première partie du cours, soit un des textes lus
+2. Un document de 2 pages (max) qui fera le lien entre votre analyse de controverse et soit une des notions vues dans la première partie du cours, soit un des textes lus - **à rendre avant le début des partiels, donc fin avril**
 3. Une note de participation sur les séances
 
 ## Programme des séances
@@ -88,5 +88,11 @@ L’évaluation sera réalisée avec :
 
 ### Séance du 01/03 -  Présentations de vos analyses
 
-- Représenter les controverses – l’importance des visualisations ; application sur HC
-- Exposés des étudiants (10 minutes + 5 de réflexion collective)
+- Exposés des controverses (10 minutes + 5 échange)
+- Méthodologies d'étude des controverses scientifiques et publiques
+
+#### Articles à lire :
+
+- [Schultz É., Ward J.K., 2021, « Science under Covid-19’s magnifying glass: Lessons from the first months of the chloroquine debate in the French press », Journal of Sociology.](https://journals.sagepub.com/doi/full/10.1177/1440783321999453)
+- [Venturini T., 2010, « Diving in magma: how to explore controversies with actor-network theory », Public Understanding of Science, 19, 3, p. 258‑273.](https://medialab.sciencespo.fr/publications/Venturini-Diving_in_Magma.pdf)
+
