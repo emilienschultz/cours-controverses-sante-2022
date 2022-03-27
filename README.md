@@ -101,12 +101,13 @@ Un conseil, non obligatoire, est de suivre le cadre d'analyse du cours contexte/
 ⚠️ 10 minutes c'est court
 💡 Il sera apprécié la production d'un support (slide) pour contextualiser le propos.
 
-La notation portera sur trois points principaux :
+La notation portera sur quatre points principaux :
 1. Respect des consignes
 2. Réutilisation d'éléments du cours
 3. Qualité de la présentation
+4. Réponse aux questions/discussion
 
-#### Articles à lire :
+#### Articles à lire (en plus):
 
 - [Schultz É., Ward J.K., 2021, « Science under Covid-19’s magnifying glass: Lessons from the first months of the chloroquine debate in the French press », Journal of Sociology.](https://journals.sagepub.com/doi/full/10.1177/1440783321999453)
 - [Venturini T., 2010, « Diving in magma: how to explore controversies with actor-network theory », Public Understanding of Science, 19, 3, p. 258‑273.](https://medialab.sciencespo.fr/publications/Venturini-Diving_in_Magma.pdf)
