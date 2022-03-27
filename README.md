@@ -96,7 +96,7 @@ L’évaluation sera réalisée avec :
 1. A partir de votre terrain de mémoire, identifier et décrire rapidement une controverse en santé en insistant sur le lien avec votre réflexion
 2. A partir d'une des lectures du cours, mettre en perspective un événement controversé d'actualité (en vous appuyant sur des sources : presse, autres médias, expérience directe ou rapportée)
 
-Un conseil, non obligatoire, est de suivre le cadre d'analyse du cours contexte/énoncés/acteurs/arènes/discussion, en insistant sur ce qui participe à l'existence (ou à l'inexistence de la controverse dans les arènes). 
+Un conseil, non obligatoire, est de suivre le cadre d'analyse du cours **contexte (et chronologie)/énoncés/acteurs/arènes/discussion**, en insistant sur ce qui participe à l'existence (ou à l'inexistence de la controverse dans les arènes). 
 
 ⚠️ 10 minutes c'est court
 💡 Il sera apprécié la production d'un support (slide) pour contextualiser le propos.
