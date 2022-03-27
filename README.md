@@ -91,6 +91,15 @@ L’évaluation sera réalisée avec :
 - Exposés des controverses (10 minutes + 5 échange)
 - Méthodologies d'étude des controverses scientifiques et publiques
 
+**Pour la présentation**, plusieurs formats sont possibles :
+
+1. A partir de votre terrain de mémoire, identifier et décrire rapidement une controverse en santé
+2. A partir d'une des lectures, mettre en perspective un événement controversé d'actualité (en vous appuyant sur des sources : presse, autres médias, expérience directe ou rapportée)
+
+Un conseil, non obligatoire, est de suivre le cadre d'analyse du cours contexte/énoncés/acteurs/arènes/discussion, en insistant sur ce qui participe à l'existence (ou à l'inexistence de la controverse dans les arènes). 
+
+Il sera apprécié la production d'un support (slide) pour contextualiser le propos.
+
 #### Articles à lire :
 
 - [Schultz É., Ward J.K., 2021, « Science under Covid-19’s magnifying glass: Lessons from the first months of the chloroquine debate in the French press », Journal of Sociology.](https://journals.sagepub.com/doi/full/10.1177/1440783321999453)
