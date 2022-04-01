@@ -112,3 +112,19 @@ La notation portera sur quatre points principaux :
 - [Schultz É., Ward J.K., 2021, « Science under Covid-19’s magnifying glass: Lessons from the first months of the chloroquine debate in the French press », Journal of Sociology.](https://journals.sagepub.com/doi/full/10.1177/1440783321999453)
 - [Venturini T., 2010, « Diving in magma: how to explore controversies with actor-network theory », Public Understanding of Science, 19, 3, p. 258‑273.](https://medialab.sciencespo.fr/publications/Venturini-Diving_in_Magma.pdf)
 
+### Travail écrit : analyse croisée étude/cours
+
+Un document de 2 pages (max) qui fera le lien entre votre analyse de controverse et soit une des notions vues dans la première partie du cours, soit un des textes lus
+
+Concrètement, il s'agit de :
+
+- présenter la thématique choisie (controverse ou mémoire)
+- présenter l'article ou la notion que vous allez utiliser
+- montrer les liens/l'utilité de mettre les deux en relation
+
+**à rendre avant le début des partiels, donc fin avril**
+
+La notation portera sur :
+- respect des consignes
+- mise en relation des deux éléments
+- présentation & qualité d'écriture
